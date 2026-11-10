@@ -1,0 +1,303 @@
+customer_id,name,email,phone,age,gender,country,city,signup_date,salary,purchase_amount,source,notes
+C0224,Carla Clark,carla.clark224@example.com,+1-555-420-2931,33.0,Female,Canada,Toronto,2019-06-23,70871.0,79.27,web,Note 407333-224
+C0058,Frank Garcia,frank.garcia58@example.com,+1-555-856-8933,35.0,Female,Canada,Toronto,2024-04-10,,121.47,web,Note 188158-58
+C0264,David Smith,david.smith264@example.com,+1-555-950-4641,26.0,Male,Usa ,Austin,2020-11-21,68362.0,469.41,web,Note 88121-264
+C0067,Bob Lopez,bob.lopez67@example.com,+1-555-718-5102,19.0,Male,UK,London,2023-10-19,100025.0,339.42,web,Note 282602-67
+C0115,  olga clark ,olga.clark115@example.com,+1-555-758-6295,73.0,Female,france,Paris,2021-02-16,45472.0,144.59,web,Note 58900-115
+C0183,Hector Smith,hector.smith183@example.com,+1-555-405-8585,61.0,Female,USA,Seattle,2021-04-08,48245.0,102.36,web,Note 917722-183
+C0209,   ,noah.miller209@example.com,+1-555-406-8933,68.0,Male,Germany,Munich,2020-04-24,43612.0,105.82,web,Note 112168-209
+C0254,Bob Brown,bob.brown254@example.com,+1-555-923-9450,20.0,Female,Canada,Toronto,2021-05-25,59789.0,423.97,web,Note 343199-254
+C0038,Hector Wilson,hector.wilson38@example.com,+1-555-970-2193,47.0,Female,France,Paris,2023-12-13,75203.0,252.24,web,Note 255836-38
+C0180,Jack Lewis,jack.lewis180@example.com,+1-555-505-5169,70.0,Male,U.S.A,Seattle,2019-10-03,62834.0,32.19,web,Note 361264-180
+C0082,Olga Clark,olga.clark82@example.com,+1-555-570-5183,60.0,Male,U.K.,Leeds,2020-11-18,42143.0,87.41,web,Note 463187-82
+C0242,Eva Lopez,eva.lopez242@example.com,+1-555-803-8248,73.0, Male,France,Paris,2018-03-25,50409.0,70.35,web,Note 765470-242
+C0272,Paul Moore,paul.moore272@example.com,+1-555-279-9035,20.0, Male,UK,London,2019-10-08,50000.0,19.76,web,Note 501207-272
+C0109,   ,john.doe@,+1-555-316-3248,,Female,UK,Leeds,2020-02-01,42265.0,73.3,web,Note 558453-109
+C0285,Mia Brown,mia.brown285@example.com,+1-555-490-7052,29.0,Female,UK,London,2020-08-15,,286.48,web,Note 158471-285
+C0256,Grace Lewis,grace.lewis256@example.com,+1-555-878-5016,27.0,Male,France,Lyon,2018-04-18,58609.0,179.75,web,Note 880357-256
+C0004,Mia Jones,mia.jones4@example.com,+1-555-400-6925,54.0,Male,FRANCE,Paris,2018-11-08,58562.0,388.8,web,Note 83667-4
+C0081,Eva Garcia,eva.garcia81@example.com,+1-555-521-3950,28.0,Male,France,Paris,2022-07-20,49257.0,295.75,web,Note 243467-81
+C9002,Alice Taylor Jr,alice.taylor162@example.com,+1-555-371-4728,64.0,male,Germany,Munich,2019-09-21,60045.0,363.38,web,Note dup-2
+C0182,Mia Wilson,mia.wilson182@example.com,+1-555-484-2314,61.0,Male,Germany,Munich,2018-03-18,39935.0,202.6,web,Note 133533-182
+C0092,Eva Lopez,eva.lopez92@example.com,+1-555-953-9017,57.0,Female,USA,Austin,2018-12-12,49205.0,116.46,web,Note 466297-92
+C0091,Bob Miller,bob.miller91@example.com,+1-555-218-2592,33.0,male,Germny,Munich,2021-06-22,72601.0,274.69,web,Note 615870-91
+C0273,Alice Davis,alice.davis273@example.com,+1-555-306-3137,39.0,Male,France,Lyon,2018-01-05,32082.0,389.44,web,Note 887599-273
+C0157,  paul taylor ,paul.taylor157@example.com,+1-555-392-9793,18.0,Male,Germny,Munich,2019-05-24,46892.0,32.17,web,Note 53642-157
+C0075,Irene Smith,irene.smith75@example.com,+1-555-843-5891,71.0,Female,UK,London,2021-09-16,46444.0,276.28,web,Note 477463-75
+C0028,Eva Lopez,eva.lopez28@example.com,+1-555-142-6050,41.0,MALE,Canada,Vancouver,2019-11-08,46445.0,336.8,web,Note 370858-28
+C0149,  eva miller ,eva.miller149@example.com,+1-555-265-6286,63.0,Male,Canada,Vancouver,2022-05-28,61979.0,478.61,web,Note 287782-149
+C0103,Noah Davis,noah.davis103@example.com,+1-555-988-1842,36.0,male,germany,Munich,2018-10-17,59071.0,12000.0,web,Note 113475-103
+C0066,Jack Wilson,jack.wilson66@example.com,+1-555-579-5982,62.0,Female,USA,Austin,2022-09-16,62791.0,224.5,web,Note 627086-66
+C0105,Alice Taylor,alice.taylor105@example.com,+1-555-129-3955,35.0,Female,UK,Leeds,2020-01-06,65609.0,206.38,web,Note 148766-105
+C0089,Alice Miller,alice.miller89@example.com,+1-555-226-8451,,Female,FRANCE,,2024-11-12,61806.0,22.26,web,Note 927187-89
+C0015,Hector Taylor,hector.taylor15@example.com,+1-555-107-2163,63.0,Male,CANADA,Toronto,2018-01-28,48020.0,146.45,web,Note 508993-15
+C0142,Leo Wilson,leo.wilson142@example.com,+1-555-687-3255,51.0,Female,USA,,2020-11-09,,132.31,web,Note 118959-142
+C0162,Alice Taylor,alice.taylor162@example.com,+1-555-371-4728,64.0,male,Germany,Munich,2019-09-21,60045.0,363.38,web,Note 812233-162
+C0244,Alice Clark,alice.clark244@example.com,+1-555-310-9482,,Male,UK,,2020-11-02,45352.0,394.06,web,Note 832336-244
+C0154,Leo Moore,leo.moore154@example.com,+1-555-208-6228,,,France,Paris,2020-08-08,31288.0,79.03,web,Note 53063-154
+C0003,Eva Garcia,eva.garcia3@example.com,+1-555-204-2519,42.0,female ,UK,Leeds,2024-06-20,54674.0,235.12,web,Note 130889-3
+C0173,  david davis ,david.davis173@example.com,,59.0,Female,Canada,Toronto,2018-12-11,58938.0,381.07,web,Note 184019-173
+C0056,Paul Wilson,paul.wilson56@example.com,phone,32.0,Female,Usa ,Seattle,2019-05-22,63472.0,294.96,web,Note 496249-56
+C0270,Hector Brown,hector.brown270@example.com,+1-555-353-4951,35.0,Male,USA,New York,2022-07-12,42354.0,468.25,web,Note 886278-270
+C0283,Paul Brown,paul.brown283@example.com,+1-555-469-1062,45.0,Male,U.S.A.,Austin,2024-11-21,,22.61,web,Note 179130-283
+C0243,Mia Davis,mia.davis243@example.com,+1-555-422-3290,33.0,Female,Germny,,2020-00-10,41721.0,391.7,web,Note 724016-243
+C0169,Hector Smith,hector.smith169@example.com,+1-555-523-6411,63.0,Female,USA,New York,2023-03-01,87317.0,87.39,web,Note 684607-169
+C0114,David Brown,david.brown114@example.com,+1-555-302-3842,56.0,Male,Uk ,London,2019-11-16,33038.0,237.34,web,Note 591119-114
+C0102,Carla Jones,carla.jones102@example.com,+1-555-198-7105,69.0,Male,Germny,Berlin,2022-09-18,49743.0,-99.0,web,Note 128168-102
+C0246,Frank Wilson,frank.wilson246@example.com,+1-555-117-2106,18.0,Female,USA,New York,2018-01-26,69966.0,205.01,web,Note 300404-246
+C0139,Karen Jones,karen.jones139@example.com,+1-555-435-5843,999,Female,USA,Seattle,2023-07-06,50873.0,30.75,web,Note 912300-139
+C0165,Frank Wilson,frank.wilson165@example.com,+1-555-450-9950,40.0,,France,Lyon,2019-04-09,46999.0,486.73,web,Note 312071-165
+C0061,Paul Jones,paul.jones61@example.com,+1-555-744-1878,27.0,FEMALE,France,Lyon,2018-04-04,900000.0,302.1,web,Note 648458-61
+C0203,Carla Moore,carla.moore203@example.com,+1-555-154-2600,,Male,UK,,2020-10-25,42812.0,484.77,web,Note 342230-203
+C0019,Alice Jones,alice.jones19@example.com,+1-555-270-7658,49.0,Female,Canada,Toronto,2024-07-02,55403.0,201.31,web,Note 971524-19
+C0262,Jack Lewis,jack.lewis262@example.com,+1-555-141-4522,71.0,Female,FRANCE,Paris,2018-12-08,2500000.0,484.52,web,Note 415492-262
+C0071,Leo Taylor,leo.taylor71@example.com,+1-555-740-8242,unknown, Male,Germany,Berlin,2020-09-05,66577.0,352.14,web,Note 127324-71
+C0223,  karen taylor ,karen.taylor223@example.com,+1-555-725-7431,,Male,Germany,Munich,2020-08-20,63400.0,402.3,web,Note 963308-223
+C0250,Irene Brown,irene.brown250@example.com,+1-555-229-5403,64.0,FEMALE,UK,London,2020-07-09,48152.0,266.69,web,Note 275722-250
+C0172,David Davis,david.davis172@example.com,+1-555-565-9901,51.0,Female,UK,London,2024-09-15,43996.0,143.69,web,Note 848102-172
+C0189,Mia Garcia,mia.garcia189@example.com,+1-555-308-6411,59.0,Male,Uk ,Leeds,2024-06-03,32995.0,35.25,web,Note 395489-189
+C0229,David Taylor,david.taylor229@example.com,+1-555-374-9898,70.0,Female,usa,Seattle,2024-01-25,52078.0,494.99,web,Note 107391-229
+C0247,Noah Lopez,noah.lopez247@example.com,+1-555-184-9791,52.0,Male,GERMANY ,Munich,2018-05-03,46932.0,405.95,web,Note 562445-247
+C0146,Hector Jones,hector.jones146@example.com,+1-555-911-3275,33.0,Female,CANADA,Toronto,2020-09-19,36971.0,190.77,web,Note 842700-146
+C0023,Irene Garcia,irene.garcia23@example.com,+1-555-344-5351,43.0,Male,UK,Leeds,2021-06-25,56510.0,314.37,web,Note 590341-23
+C0175,Irene Lopez,irene.lopez175@example.com,+1-555-557-5374,39.0,Female,Canada,Toronto,2020-11-12,53488.0,67.93,web,Note 321709-175
+C0267,  eva smith ,eva.smith267@example.com,+1-555-734-5026,150,Female,france,Lyon,2021-09-16,,77.25,web,Note 209146-267
+C0111,Karen Taylor,karen.taylor111@example.com,+1-555-687-7626,63.0,Female,Germany,Munich,2018-07-01,62204.0,474.33,web,Note 482446-111
+C0133,Leo Jones,leo.jones133@example.com,+1-555-657-9312,68.0,Male,france,Lyon,2024-08-02,,134.29,web,Note 17031-133
+C0238,Irene Jones,irene.jones238@example.com,+1-555-780-3711,21.0,Female,uk,Leeds,2023-12-25,37580.0,124.73,web,Note 687326-238
+C0191,David Lewis,david.lewis191@example.com,,43.0,Male,GERMANY ,Munich,2024-05-13,38031.0,161.13,web,Note 377114-191
+C0095,Grace Taylor,grace.taylor95@example.com,+1-555-932-4817,39.0,Male,Canada,Toronto,2020-03-05,34202.0,63.86,web,Note 908536-95
+C0119,Frank Davis,frank.davis119@example.com,+1-555-389-7347,44.0,Female,UK,London,2024-11-21,49557.0,283.4,web,Note 405341-119
+C0087,Jack Davis,alice at example.com,+1-555-279-4289,26.0,Female,Germany,Munich,2024-03-09,79726.0,484.02,web,Note 309478-87
+C0263,Bob Clark,bob.clark263@example.com,+1-555-366-3848,19.0,Female,uk,Leeds,2022-12-18,55012.0,403.91,web,Note 146583-263
+C0268,Hector Clark,,+1-555-913-1319,42.0,Female,France,Lyon,2022-08-12,,457.21,web,Note 526797-268
+C0112,Leo Jones,leo.jones112@example.com,+1-555-964-2734,33.0,Female,germany,Munich,2022-02-13,53447.0,436.56,web,Note 782033-112
+C0174,Mia Lopez,mia.lopez174@example.com,+1-555-435-2421,43.0,Male,France,Paris,2019-08-11,39964.0,468.55,web,Note 7161-174
+C0085,  bob taylor ,bob.taylor85@example.com,+1-555-952-5689,67.0,Male,Germany,Munich,2019-11-07,41904.0,363.25,web,Note 691201-85
+C0227,   ,mia.moore227@example.com,+1-555-768-9109,44.0,,France,Lyon,2023-08-16,62696.0,399.98,web,Note 231241-227
+C0025,Jack Taylor,jack.taylor25@example.com,12345,60.0,Male,France,Paris,2020-02-04,54668.0,148.06,web,Note 220861-25
+C0127,David Lewis,david.lewis127@example.com,+1-555-971-3042,36.0,Male,France,Paris,2020-08-17,62738.0,473.74,web,Note 232823-127
+C0063,David Garcia,david.garcia63@example.com,+1-555-370-2330,28.0,Male,Canada,Toronto,2022-02-06,68130.0,300.97,web,Note 305407-63
+C0265,   ,irene.jones265@example.com,+1-555-166-4239,,Female,USA,New York,2018-06-04,67864.0,92.31,web,Note 601761-265
+C0079,Mia Davis,mia.davis79@example.com,+1-555-993-9864,20.0,Male,Germany,Berlin,2031-05-01,74886.0,222.65,web,Note 103225-79
+C0100,Jack Wilson,jack.wilson100@example.com,+1-555-719-8048,24.0,male,France,Paris,2021-08-08,51816.0,212.77,web,Note 867611-100
+C0051,Hector Jones,hector.jones51@example.com,,68.0,Male,UK,Leeds,2022-07-22,45208.0,177.2,web,Note 890844-51
+C0126,Noah Brown,noah.brown126@example.com,+1-555-920-3267,73.0,Female,Canada,Toronto,2023-08-28,57328.0,191.89,web,Note 979677-126
+C0185,Bob Garcia,bob.garcia185@example.com,+1-555-511-8191,32.0,Male,Usa ,New York,2019-09-10,57656.0,292.29,web,Note 605526-185
+C0279,Olga Lewis,olga.lewis279@example.com,+1-555-270-7783,49.0,Female,Germany,Munich,2022-07-04,65054.0,293.25,web,Note 795075-279
+C0062,Hector Moore,hector.moore62@example.com,+1-555-561-8253,,MALE,Germany,Munich,2022-10-02,50558.0,308.72,web,Note 776039-62
+C0211,Eva Miller,eva.miller211@example.com,+1-555-717-4290,48.0,Female,UK,London,2021-06-10,,484.2,web,Note 819959-211
+C0247,Noah Lopez,noah.lopez247@example.com,+1-555-184-9791,52.0,Male,GERMANY ,Munich,2018-05-03,46932.0,405.95,web,Note 562445-247
+C0070,Carla Davis,carla.davis70@example.com,+1-555-431-2899,67.0,Female,Uk ,London,2023-09-15,47575.0,212.49,web,Note 196694-70
+C0037,Frank Clark,frank.clark37@example.com,+1-555-390-9445,60.0,FEMALE,USA,New York,2024-04-22,46939.0,82.2,web,Note 48458-37
+C0041,Olga Brown,olga.brown41@example.com,+1-555-560-5246,,Male,Germany,Munich,2024-09-16,48276.0,47.97,web,Note 299607-41
+C0240,David Lopez,david.lopez240@example.com,+1-555-589-2160,32.0,Female,Canada,Toronto,2023-02-04,53517.0,163.54,web,Note 923783-240
+C0012,Alice Taylor,not-an-email,+1-555-600-1319,25.0,Female,UK,Leeds,2019-01-08,50629.0,440.22,web,Note 992948-12
+C0233,Eva Lewis,eva.lewis233@example.com,+1-555-355-3396,63.0,Female,Canada,Toronto,2024-11-13,39284.0,141.67,web,Note 434346-233
+C0239,Carla Lewis,carla.lewis239@example.com,+1-555-101-4496,48.0,Male,U.S.A,New York,2022-04-17,54302.0,350.84,web,Note 856800-239
+C0194,Karen Miller,karen.miller194@example.com,+1-555-840-9037,47.0,Male,Germany,Munich,2019-03-24,70463.0,277.81,web,Note 192988-194
+C0155,Jack Lopez,jack.lopez155@example.com,+1-555-528-5067,-5,Male,FRANCE,Lyon,2022-12-11,57610.0,498.03,web,Note 489491-155
+C0161,Jack Taylor,jack.taylor161@example.com,+1-555-619-9351,52.0,FEMALE,UK,Leeds,2021-01-12,52175.0,214.1,web,Note 322623-161
+C0099,Carla Jones,carla.jones99@example.com,+1-555-722-3430,,Male,uk,Leeds,2022-11-19,44844.0,497.37,web,Note 556329-99
+C0164,Paul Lewis,paul.lewis164@example.com,+1-555-822-3262,51.0,Male,USA,Seattle,2020-11-16,,267.48,web,Note 328993-164
+C0047,Bob Miller,bob.miller47@example.com,+1-555-435-4467,47.0,Female,Germny,Munich,2024-07-09,55286.0,133.61,web,Note 85884-47
+C0188,Paul Garcia,carl@domain,+1-555-407-3365,69.0,Female,Canada,Toronto,2022-07-14,43400.0,283.07,web,Note 140606-188
+C0116,Leo Moore,leo.moore116@example.com,+1-555-417-8565,46.0,Male,Usa ,New York,2020-05-03,58620.0,325.89,web,Note 896840-116
+C0245,Hector Wilson,hector.wilson245@example.com,+1-555-215-4949,49.0,Male,Germany,Berlin,2020-06-05,37623.0,216.22,web,Note 572896-245
+C0130,Alice Jones,alice.jones130@example.com,+1-555-362-4533,71.0,Male,Usa ,Seattle,not a date,37333.0,217.39,web,Note 813875-130
+C0232,Frank Davis,frank.davis232@example.com,+1-555-396-5380,72.0,female ,UK,London,2024-07-02,59064.0,496.32,web,Note 909165-232
+C0129,David Lewis,david.lewis129@example.com,+1-555-910-3392,26.0,Male,UK,Leeds,2024-08-23,64874.0,239.86,web,Note 645239-129
+C0206,Leo Jones,leo.jones206@example.com,+1-555-105-6050,46.0,Female,USA,,2018-03-03,38479.0,101.82,web,Note 470646-206
+C0016,Grace Moore,grace.moore16@example.com,+1-555-840-8744,33.0,Female, Canada,Vancouver,2019-02-04,67616.0,332.9,web,Note 371507-16
+C0008,Eva Garcia,eva.garcia8@example.com,+1-555-651-5304,65.0,Female,France,Lyon,2020-04-05,71230.0,259.67,web,Note 95325-8
+C0263,Bob Clark,bob.clark263@example.com,+1-555-366-3848,19.0,Female,uk,Leeds,2022-12-18,55012.0,403.91,web,Note 146583-263
+C0140,Leo Taylor,leo.taylor140@example.com,+1-555-381-1939,22.0,Female,Germany,Munich,2022-12-22,44621.0,88.39,web,Note 32653-140
+C0277,David Wilson,david.wilson277@example.com,+1-555-439-2274,33.0,Female,Canada,Vancouver,2019-11-03,62777.0,367.35,web,Note 352058-277
+C0235,Carla Lewis,carla.lewis235@example.com,+1-555-750-6869,72.0,FEMALE,Germany,Munich,2019-07-27,,415.89,web,Note 354161-235
+C9003,Eva Jones Jr,eva.jones78@example.com,+1-555-900-5342,39.0, Male,Germany,Berlin,2024-06-28,52847.0,340.44,web,Note dup-3
+C0090,Karen Taylor,karen.taylor90@example.com,+1-555-763-2035,58.0,Female,Canada,Vancouver,2023-07-04,60512.0,78.49,web,Note 992227-90
+C0195,Bob Moore,bob.moore195@example.com,+1-555-959-2217,70.0,Male,USA,New York,2023-02-30,51932.0,84.0,web,Note 229344-195
+C0098,Jack Wilson,jack.wilson98@example.com,+1-555-162-8847,72.0,Female,USA,Austin,2023-02-16,54302.0,359.08,web,Note 465108-98
+C0009,Bob Jones,bob.jones9@example.com,+1-555-742-3621,68.0,Female,Canada,Toronto,2021-07-20,69723.0,485.83,web,Note 902592-9
+C0029,Noah Taylor,noah.taylor29@example.com,+1-555-342-3662,69.0,Male,canada,Vancouver,2018-03-24,73642.0,211.74,web,Note 702448-29
+C0028,Eva Lopez,eva.lopez28@example.com,+1-555-142-6050,41.0,MALE,Canada,Vancouver,2019-11-08,46445.0,336.8,web,Note 370858-28
+C0123,Eva Jones,eva.jones123@example.com,+1-555-964-2657,50.0,Male,UK,Leeds,2024-10-05,49311.0,98.61,web,Note 726501-123
+C0053,  irene taylor ,irene.taylor53@example.com,+1-555-893-8921,47.0,Female,FRANCE,Lyon,2020-04-27,63897.0,230.89,web,Note 786931-53
+C0266,Noah Lewis,noah.lewis266@example.com,+1-555-608-1483,42.0,Female,Germany,Berlin,2020-04-06,58536.0,144.74,web,Note 467676-266
+C0059,Jack Smith,jack.smith59@example.com,+1-555-229-5494,20.0,Male,France,Lyon,2023-03-21,1200000.0,437.63,web,Note 601949-59
+C0148,Olga Wilson,olga.wilson148@example.com,+1-555-452-3102,74.0,Male,France,Paris,2021-09-28,52184.0,37.15,web,Note 130192-148
+C0278,Olga Smith,,+1-555-314-5088,62.0,Male,UK,Leeds,2020-02-24,38912.0,10.63,web,Note 404684-278
+C0282,Karen Garcia,karen.garcia282@example.com,+1-555-519-9849,34.0,Female,Canada,Vancouver,2019-02-02,76691.0,202.52,web,Note 576363-282
+C0218,Eva Davis,eva.davis218@example.com,+1-555-451-8460,68.0,Male,UK,Leeds,2020-08-04,80914.0,224.7,web,Note 730609-218
+C0032,Karen Smith,,+1-555-998-5279,29.0,Female,USA,New York,2018-10-14,71901.0,179.39,web,Note 824629-32
+C0002,Grace Lewis,grace.lewis2@example.com,+1-555-529-4611,46.0,Female,France,Paris,2024-03-23,56569.0,217.08,web,Note 291369-2
+C0208,Hector Taylor,hector.taylor208@example.com,+1-555-273-7237,28.0,Male,France,Lyon,2020-05-16,61582.0,81.51,web,Note 175329-208
+C0014,Grace Lewis,grace.lewis14@example.com,+1-555-508-7118,46.0,Female,UK,London,2019-04-03,67657.0,175.66,web,Note 616886-14
+C0010,  alice clark ,alice.clark10@example.com,+1-555-798-9797,66.0,Female,USA,Seattle,2020-02-10,54641.0,223.03,web,Note 475763-10
+C0280,Hector Brown,hector.brown280@example.com,+1-555-175-1547,36.0,Male,Germany,Munich,2020-02-03,36382.0,177.49,web,Note 931063-280
+C0096,Alice Brown,alice.brown96@example.com,+1-555-466-4898,55.0,Female,USA,New York,2019-05-02,49630.0,72.11,web,Note 441409-96
+C0035,Karen Lopez,karen.lopez35@example.com,+1-555-667-3085,30.0,Female,UK,Leeds,2023-12-06,,278.49,web,Note 425-35
+C0097,  david lewis ,david.lewis97@example.com,+1-555-587-8344,67.0,,USA,Seattle,2022-02-15,26069.0,31.25,web,Note 821273-97
+C0233,Eva Lewis,eva.lewis233@example.com,+1-555-355-3396,63.0,Female,Canada,Toronto,2024-11-13,39284.0,141.67,web,Note 434346-233
+C0177,Paul Brown,,+1-555-865-7121,44.0,Female,GERMANY ,Berlin,2024-04-22,,50.12,web,Note 468449-177
+C0151,Karen Taylor,karen.taylor151@example.com,+1-555-945-1464,23.0,Male,USA,Seattle,2024-10-09,43079.0,214.13,web,Note 670030-151
+C0275,Noah Clark,,+1-555-764-6198,29.0,Female,Germany,Berlin,2023-10-27,,347.36,web,Note 133534-275
+C0281,Mia Brown,mia.brown281@example.com,+1-555-660-2525,39.0,Female,USA,Seattle,2022-04-31,67828.0,86.98,web,Note 106176-281
+C0046,Eva Taylor,eva.taylor46@example.com,+1-555-127-7455,55.0,,France,Paris,2023-07-05,36614.0,434.76,web,Note 190556-46
+C0200,Karen Taylor,karen.taylor200@example.com,+1-555-640-1697,32.0,Male,USA,Seattle,2022-08-09,55437.0,32.82,web,Note 77959-200
+C0033,Karen Lopez,karen.lopez33@example.com,+1-555-623-2894,42.0,Male,France,Lyon,2018-12-14,82352.0,273.84,web,Note 754377-33
+C0078,Eva Jones,eva.jones78@example.com,+1-555-900-5342,39.0, Male,Germany,Berlin,2024-06-28,52847.0,340.44,web,Note 559543-78
+C0100,Jack Wilson,jack.wilson100@example.com,+1-555-719-8048,24.0,male,France,Paris,2021-08-08,51816.0,212.77,web,Note 867611-100
+C0134,Leo Jones,leo.jones134@example.com,+1-555-346-2698,67.0,Female,UK,London,2018-06-18,29557.0,175.89,web,Note 674020-134
+C0145,Karen Clark,karen.clark145@example.com,+1-555-826-2063,53.0,Female,U.K.,Leeds,2024-03-23,-40000.0,95.3,web,Note 379052-145
+C0064,Bob Garcia,@nouser.com,+1-555-823-5632,62.0,Female,U.K.,London,2021-13-45,55221.0,396.04,web,Note 655420-64
+C0083,Leo Taylor,leo.taylor83@example.com,+1-555-754-7951,62.0,Female,UK,Leeds,2024-05-07,78513.0,62.26,web,Note 399889-83
+C0271,Frank Brown,frank.brown271@example.com,+1-555-706-6210,69.0,Female,Canada,Toronto,2023-12-12,69622.0,285.92,web,Note 197377-271
+C0213,Alice Lewis,alice.lewis213@example.com,+1-555-825-4434,46.0,Female,Germany,Berlin,2024-07-22,,128.59,web,Note 690658-213
+C0221,Noah Lopez,noah.lopez221@example.com,+1-555-855-4232,46.0,Female,USA,Austin,2018-12-07,60498.0,406.28,web,Note 65602-221
+C0042,Hector Miller,hector.miller42@example.com,+1-555-427-9849,23.0,MALE,UK,London,2019-07-23,48127.0,84.87,web,Note 224345-42
+C0215,Noah Moore,,+1-555-909-6890,thirty,Male,USA,New York,2024-04-22,,310.21,web,Note 590579-215
+C0110,Hector Moore,hector.moore110@example.com,+1-555-953-6802,22.0,Female,FRANCE,Paris,2021-01-15,55209.0,461.37,web,Note 903987-110
+C0171,Bob Brown,bob.brown171@example.com,+1-555-957-3880,20.0,male,Germany,Munich,2019-12-28,76951.0,14.54,web,Note 595551-171
+C0207,  noah jones ,noah.jones207@example.com,+1-555-191-6798,53.0,Male,Usa ,,2022-06-28,47512.0,200.02,web,Note 88813-207
+C0122,Noah Moore,noah.moore122@example.com,+1-555-118-6940,37.0,Male,UK,,2020-08-07,41591.0,121.01,web,Note 144247-122
+C0052,Noah Wilson,noah.wilson52@example.com,+1-555-543-6934,-1,Female,USA,Seattle,2019-07-06,,369.56,web,Note 682054-52
+C0057,Leo Lopez,leo.lopez57@example.com,+1-555-438-6764,62.0,Female,France,Lyon,2020-05-08,60700.0,68.58,web,Note 561894-57
+C0249,   ,olga.taylor249@example.com,+1-555-156-6067,60.0,Male,France,,2018-12-05,52846.0,476.98,web,Note 548410-249
+C0159,David Lopez,david.lopez159@example.com,+1-555-913-6555,53.0,Female,UK,London,2019-10-17,52200.0,29.07,web,Note 748255-159
+C0086,  eva clark ,eva.clark86@example.com,+1-555-742-1645,,Female,USA,New York,2022-06-24,42564.0,74.39,web,Note 953813-86
+C0121,Eva Taylor,eva.taylor121@example.com,+1-555-417-7171,,Female,USA,New York,2023-12-27,93852.0,457.1,web,Note 97992-121
+C0096,Alice Brown,alice.brown96@example.com,+1-555-466-4898,55.0,Female,USA,New York,2019-05-02,49630.0,72.11,web,Note 441409-96
+C0170,Paul Wilson,paul.wilson170@example.com,+1-555-874-5706,38.0,Female,Canada,,2024-02-21,47674.0,291.33,web,Note 561147-170
+C0178,Leo Jones,leo.jones178@example.com,+1-555-214-2011,71.0,Male,France,Paris,2019-06-28,30626.0,264.97,web,Note 121886-178
+C0217,Hector Wilson,hector.wilson217@example.com,+1-555-500-8586,,Male,Uk ,Leeds,2018-08-04,47395.0,52.07,web,Note 871699-217
+C0198,Leo Miller,leo.miller198@example.com,+1-555-180-7112,43.0,Female,Germny,Berlin,2023-04-10,61306.0,345.18,web,Note 889053-198
+C0088,Karen Jones,karen.jones88@example.com,+1-555-177-3306,66.0,Male,Germany,Munich,2024-09-12,40177.0,54.25,web,Note 413741-88
+C0166,Jack Lewis,jack.lewis166@example.com,+1-555-806-9011,38.0,Female,Canada,Vancouver,2022-12-09,51943.0,151.02,web,Note 601334-166
+C9004,Hector Clark Jr,,+1-555-913-1319,42.0,Female,France,Lyon,2022-08-12,,457.21,web,Note dup-4
+C0106,Alice Jones,alice.jones106@example.com,+1-555-320-7163,44.0,Female,FRANCE,Lyon,2035-12-12,43683.0,363.58,web,Note 814571-106
+C0228,Jack Smith,jack.smith228@example.com,abcdefghij,36.0,Male,UK,Leeds,2022-12-25,68445.0,385.3,web,Note 576429-228
+C0050,David Brown,,+1-555-210-1420,37.0,Female,UK,Leeds,2023-04-03,67015.0,300.13,web,Note 870917-50
+C9000,Eva Garcia Jr,eva.garcia8@example.com,+1-555-651-5304,65.0,Female,France,Lyon,2020-04-05,71230.0,259.67,web,Note dup-0
+C0006,Frank Moore,frank.moore6@example.com,+1-555-267-8573,42.0,Female,Canada,Toronto,2023-06-27,38631.0,386.47,web,Note 58655-6
+C0018,Olga Brown,olga.brown18@example.com,+1-555-287-5563,,Male,Germany,Berlin,2021-09-04,49516.0,34.79,web,Note 566847-18
+C0231,Leo Lewis,leo.lewis231@example.com,+1-555-747-8015,28.0,Male,France,Paris,2024-04-26,65388.0,147.73,web,Note 564939-231
+C0117,  carla taylor ,,,47.0,Male,France,Lyon,2024-10-21,61189.0,255.67,web,Note 64879-117
+C0226,Paul Miller,paul.miller226@example.com,+1-555-291-6154,71.0,Female,Canada,Toronto,2024-06-01,41515.0,247.46,web,Note 204607-226
+C0107,Carla Smith,carla.smith107@example.com,+1-555-261-1815,61.0,Male,Canada,Vancouver,2021-11-14,42090.0,143.85,web,Note 791615-107
+C0163,Mia Brown,mia.brown163@example.com,+1-555-132-2800,30.0,Male,Canada,Vancouver,2020-07-05,48078.0,255.89,web,Note 641181-163
+C0135,Frank Clark,frank.clark135@example.com,+1-555-812-8840,58.0,Male,Germany,Berlin,2018-12-25,58090.0,108.78,web,Note 829538-135
+C0232,Frank Davis,frank.davis232@example.com,+1-555-396-5380,72.0,female ,UK,London,2024-07-02,59064.0,496.32,web,Note 909165-232
+C0065,Grace Lopez,grace.lopez65@example.com,+1-555-657-4683,,Male,USA,Austin,2024-03-03,74809.0,301.57,web,Note 864278-65
+C0027,Karen Brown,karen.brown27@example.com,+1-555-265-8239,53.0,Female,UK,London,2018-02-23,67408.0,418.95,web,Note 610805-27
+C0236,Eva Taylor,eva.taylor236@example.com,+1-555-907-6631,75.0,Male,Germny,Berlin,2018-11-26,64219.0,419.98,web,Note 17072-236
+C0170,Paul Wilson,paul.wilson170@example.com,+1-555-874-5706,38.0,Female,Canada,,2024-02-21,47674.0,291.33,web,Note 561147-170
+C0181,Carla Moore,carla.moore181@example.com,+1-555-170-8734,20.0,Female,USA,Austin,2019-03-25,42778.0,482.25,web,Note 392650-181
+C0101,Olga Lopez,olga.lopez101@example.com,+1-555-847-2557,38.0,Female,Germany,Munich,2023-05-12,72514.0,242.39,web,Note 95656-101
+C0136,Grace Smith,grace.smith136@example.com,+1-555-417-9444,43.0,Female,UK,,2018-11-07,53857.0,150.19,web,Note 904017-136
+C0284,Jack Jones,,+1-555-964-2892,37.0,Female,Germany,Munich,2021-11-09,50284.0,54.66,web,Note 570557-284
+C0260,Karen Davis,karen.davis260@example.com,+1-555-378-4827,22.0,Male,GERMANY ,Berlin,2024-10-04,74783.0,86.15,web,Note 172359-260
+C0199,Carla Clark,,+1-555-195-7640,42.0,Female,USA,Seattle,2021-01-21,,254.93,web,Note 454987-199
+C0118,Olga Jones,olga.jones118@example.com,+1-555-831-2381,50.0,Male,UK,London,2019-12-15,70140.0,495.58,web,Note 549525-118
+C0167,Mia Lopez,mia.lopez167@example.com,+1-555-891-3399,36.0,Male,UK,Leeds,2023-02-12,,376.2,web,Note 224381-167
+C0214,Eva Lewis,eva.lewis214@example.com,000,22.0,,Germany,Munich,2022-07-18,55074.0,258.24,web,Note 965101-214
+C0137,Bob Clark,bob.clark137@example.com,+1-555-379-3039,69.0,Female,UK,Leeds,2021-12-15,64359.0,487.12,web,Note 520306-137
+C0030,Hector Miller,hector.miller30@example.com,+1-555-906-2771,42.0,FEMALE,CANADA,Vancouver,2019-04-27,45425.0,460.04,web,Note 366643-30
+C0080,David Wilson,david.wilson80@example.com,+1-555-810-5906,75.0,Male,Canada,Toronto,2020-01-10,54678.0,185.65,web,Note 451607-80
+C0205,Mia Jones,mia.jones205@example.com,+1-555-402-5037,63.0,Male,France,Paris,2020-03-13,50943.0,372.43,web,Note 332061-205
+C0141,Eva Taylor,eva.taylor141@example.com,+1-555-135-3068,22.0,FEMALE,germany,Munich,2020-07-19,61783.0,230.46,web,Note 388984-141
+C0158,Grace Davis,grace.davis158@example.com,+1-555-395-2204,42.0,Female,France,Lyon,2024-10-22,64107.0,309.41,web,Note 134913-158
+C0132,Hector Lewis,hector.lewis132@example.com,+1-555-398-8032,18.0,Female,Canada,Toronto,2022-07-06,45922.0,335.54,web,Note 89772-132
+C0040,Olga Brown,olga.brown40@example.com,+1-555-783-9702,53.0,Female,Germany,Munich,2022-12-17,58385.0,219.1,web,Note 950906-40
+C0241,Jack Brown,jack.brown241@example.com,+1-555-892-3181,59.0,FEMALE,Germany,Berlin,2022-10-01,49473.0,182.08,web,Note 223404-241
+C0206,Leo Jones,leo.jones206@example.com,+1-555-105-6050,46.0,Female,USA,,2018-03-03,38479.0,101.82,web,Note 470646-206
+C0216,Mia Davis,mia.davis216@example.com,+1-555-208-1172,-22,Female,Germany,Berlin,2022-12-17,48777.0,283.42,web,Note 721068-216
+C0055,Irene Davis,irene.davis55@example.com,+1-555-710-5526,53.0,Male,UK,London,2018-04-24,,25000.0,web,Note 499219-55
+C0201,Irene Moore,irene.moore201@example.com,+1-555-773-1539,29.0,Female,France,Paris,2019-10-05,55268.0,205.17,web,Note 80674-201
+C0044,Mia Wilson,,+1-555-460-5892,66.0,Female,USA,Austin,2022-12-24,46052.0,277.6,web,Note 632556-44
+C0255,Carla Moore,carla.moore255@example.com,+1-555-108-7044,30.0,Female,Germany,Munich,2023-10-08,39349.0,18000.5,web,Note 810143-255
+C0049,Eva Garcia,eva.garcia49@example.com,+1-555-584-2874,54.0,Male,Canada,Vancouver,2023-05-25,43873.0,482.23,web,Note 753252-49
+C0036,Jack Miller,jack.miller36@example.com,+1-555-540-6279,47.0,Female,Canada,Vancouver,2023-04-17,48260.0,241.86,web,Note 944956-36
+C0060,Jack Wilson,jack.wilson60@example.com,+1 (555,29.0,Male,Germany,Munich,2024-08-04,44744.0,412.84,web,Note 420172-60
+C0144,Paul Garcia,paul.garcia144@example.com,,46.0,Male,USA,Seattle,2021-02-26,68321.0,344.15,web,Note 886593-144
+C0054,Olga Taylor,olga.taylor54@example.com,+1-555-784-7209,39.0,Male,France,Lyon,2024-06-06,5000000.0,248.9,web,Note 372060-54
+C0021,Karen Smith,karen.smith21@example.com,+1-555-698-8811,50.0,Male,USA,New York,2022-02-28,61331.0,340.85,web,Note 246629-21
+C0125,Hector Moore,hector.moore125@example.com,+1-555-416-8684,75.0,Male,Canada,Vancouver,2023-10-15,45518.0,197.12,web,Note 553081-125
+C0143,Alice Lewis,alice.lewis143@example.com,+1-555-611-9482,42.0,Male,Canada,Vancouver,2024-05-23,17049.0,149.93,web,Note 960997-143
+C0111,Karen Taylor,karen.taylor111@example.com,+1-555-687-7626,63.0,Female,Germany,Munich,2018-07-01,62204.0,474.33,web,Note 482446-111
+C0237,David Brown,david.brown237@example.com,+1-555-567-1011,45.0,Male,Germany,Berlin,2023-05-06,72295.0,55.74,web,Note 377943-237
+C0077,Mia Lopez,mia.lopez77@example.com,+1-555-607-1606,26.0,Female,Canada,Toronto,2024-08-04,,364.0,web,Note 429893-77
+C0274,Leo Jones,frank@exa mple.com,+1-555-821-7481,55.0,Male,UK,Leeds,2020-06-05,41131.0,488.17,web,Note 767926-274
+C0108,David Davis,david.davis108@example.com,+1-555-213-5640,61.0,Female,Germany,Munich,2018-04-13,56166.0,492.38,web,Note 57443-108
+C0094,Grace Clark,grace.clark94@example.com,+1-555-121-1828,68.0,Female,France,Paris,2019-10-07,49190.0,43.62,web,Note 802325-94
+C0013,Carla Jones,carla.jones13@example.com,+1-555-935-2133,66.0,Male,Germany,Berlin,2023-08-18,62472.0,307.23,web,Note 222086-13
+C0017,Noah Lopez,noah.lopez17@example.com,+1-555-984-1887,61.0,Male,germany,Berlin,2021-12-11,56804.0,103.88,web,Note 562336-17
+C0048,Paul Smith,paul.smith48@example.com,+1-555-153-6733,32.0,Male,France,Paris,2024-01-08,32339.0,107.69,web,Note 21369-48
+C0187,Frank Clark,frank.clark187@example.com,+1-555-669-9120,21.0,Female,Germany,Munich,2024-09-11,50931.0,156.95,web,Note 192811-187
+C0204,Alice Clark,alice.clark204@example.com,+1-555-902-8381,49.0,Male,U.K.,Leeds,2022-07-14,,101.01,web,Note 614334-204
+C0259,Mia Jones,bob@@example.com,+1-555-681-2020,45.0,Male,FRANCE,Paris,2020-05-28,46438.0,353.36,web,Note 771073-259
+C0120,Jack Miller,jack.miller120@example.com,+1-555-994-3463,39.0,Male,France,Paris,2020-05-21,64251.0,352.26,web,Note 410997-120
+C0022,Mia Jones,mia.jones22@example.com,+1-555-352-1651,,Male,France,Lyon,2023-10-19,69841.0,266.16,web,Note 980110-22
+C0147,Eva Taylor,eva.taylor147@example.com,+1-555-167-6067,43.0,Female,USA,Seattle,2021-07-27,,165.34,web,Note 77767-147
+C0179,Grace Lewis,grace.lewis179@example.com,+1-555-600-2489,75.0,Female,FRANCE,Paris,2021-03-17,41672.0,283.81,web,Note 705448-179
+C0084,Leo Taylor,leo.taylor84@example.com,+1-555-816-5837,19.0,Female,Uk ,Leeds,2018-10-28,54907.0,346.04,web,Note 780841-84
+C0131,Jack Garcia,x@y,+1-555-224-1782,33.0,Female,UK,Leeds,2018-02-27,68384.0,18.05,web,Note 540410-131
+C0160,Karen Wilson,karen.wilson160@example.com,,56.0,Male,FRANCE,Lyon,2022-06-06,56998.0,202.55,web,Note 646447-160
+C0128,Olga Davis,olga.davis128@example.com,+1-555-524-1872,43.0,Female,U.S.A,New York,2021-02-12,65286.0,120.02,web,Note 334165-128
+C0210,Eva Miller,eva.miller210@example.com,+1-555-505-6443,71.0,MALE,U.S.A.,Austin,2021-06-14,43608.0,409.58,web,Note 901259-210
+C0222,David Moore,david.moore222@example.com,+1-555-474-6340,30.0,Female,Canada,Toronto,2020-11-28,74280.0,249.85,web,Note 670153-222
+C0074,Eva Lopez,eva.lopez74@example.com,+1-555-713-9327,65.0,female ,Canada,,2020-07-11,26033.0,467.78,web,Note 532401-74
+C0230,Hector Miller,hector.miller230@example.com,+1-555-560-5305,,Male,USA,Austin,2024-02-25,40198.0,407.83,web,Note 220073-230
+C0209,   ,noah.miller209@example.com,+1-555-406-8933,68.0,Male,Germany,Munich,2020-04-24,43612.0,105.82,web,Note 112168-209
+C0031,Jack Garcia,jack.garcia31@example.com,+1-555-124-4164,43.0,Female,Canada,Vancouver,2024-02-25,51872.0,205.84,web,Note 884642-31
+C0124,Frank Lewis,frank.lewis124@example.com,+1-555-144-7731,41.0,Male,GERMANY ,Munich,2022-05-25,51015.0,376.78,web,Note 470735-124
+C0034,  grace davis ,grace.davis34@example.com,+1-555-171-6409,57.0,Female,Germny,Berlin,2023-05-17,55291.0,161.55,web,Note 428231-34
+C0257,Alice Davis,alice.davis257@example.com,+1-555-877-7164,72.0,FEMALE,USA,New York,2019-09-08,28212.0,486.55,web,Note 149289-257
+C0005,Hector Jones,hector.jones5@example.com,+1-555-384-8428,58.0,Female,germany,Berlin,2029-07-04,46025.0,344.94,web,Note 74870-5
+C0156,Paul Miller,paul.miller156@example.com,,43.0,Female,Germany,Berlin,2019-10-12,61571.0,33.84,web,Note 295023-156
+C0020,Olga Miller,dave@.com,+1-555-813-8973,27.0,Male,Germany,,2019-01-19,55678.0,370.51,web,Note 63918-20
+C0220,Hector Moore,hector.moore220@example.com,+1-555-665-3623,39.0,Female,Canada,Vancouver,2019-07-21,68658.0,100.38,web,Note 671590-220
+C9001,Eva Miller Jr,eva.miller210@example.com,+1-555-505-6443,71.0,MALE,U.S.A.,Austin,2021-06-14,43608.0,409.58,web,Note dup-1
+C0150,Eva Clark,eva.clark150@example.com,+1-555-729-9740,23.0,Male,UK,London,2019-11-20,58772.0,363.11,web,Note 634534-150
+C0225,Noah Taylor,noah.taylor225@example.com,+1-555-688-7286,45.0,Male,Canada,Vancouver,2023-09-23,79226.0,94.89,web,Note 174971-225
+C0248,Karen Lopez,karen.lopez248@example.com,+1-555-749-2083,37.0,Female,France,Paris,2018-04-03,54426.0,463.07,web,Note 121620-248
+C0269,  karen lopez ,karen.lopez269@example.com,+1-555-284-1427,38.0,Male,Uk ,London,2024-05-02,59883.0,185.14,web,Note 612356-269
+C0152,Alice Wilson,alice.wilson152@example.com,+1-555-396-5949,48.0,Male,France,Lyon,2020-08-03,38345.0,347.42,web,Note 165759-152
+C0234,  mia wilson ,mia.wilson234@example.com,+1-555-748-2525,43.0,Female,U.S.A.,Seattle,2020-08-16,56042.0,170.37,web,Note 2593-234
+C0011,Alice Lewis,alice.lewis11@example.com,555-CALL-NOW,50.0,Male,U.K.,Leeds,2024-11-17,49646.0,383.63,web,Note 565579-11
+C0072,Alice Clark,alice.clark72@example.com,+1-555-918-4920,63.0,Male,France,Lyon,2022-01-18,49344.0,209.92,web,Note 235615-72
+C0253,Frank Smith,frank.smith253@example.com,+1-555-922-7870,32.0,Female,France,Paris,2021-12-11,54356.0,192.68,web,Note 526428-253
+C0093,Hector Davis,hector.davis93@example.com,+1-555-802-7018,52.0,female ,USA,New York,2021-05-07,83695.0,413.85,web,Note 96126-93
+C0193,Hector Lewis,eve example.com,+1-555-116-5272,53.0,Female,canada,Vancouver,2019-04-11,56952.0,130.41,web,Note 577390-193
+C0258,  irene jones ,irene.jones258@example.com,+1-555-337-9515,,Female,USA,Austin,2023-02-19,69767.0,56.83,web,Note 139999-258
+C0192,   ,paul.wilson192@example.com,+1-555-922-8692,66.0,Female,Usa ,New York,2020-06-14,58653.0,32.4,web,Note 906058-192
+C0196,Olga Davis,olga.davis196@example.com,+1-555-732-8916,60.0, Male,USA,New York,2018-09-18,51704.0,211.56,web,Note 17538-196
+C0138,Paul Davis,paul.davis138@example.com,,64.0,,france,Paris,2021-10-27,47707.0,98.42,web,Note 308036-138
+C0261,Olga Wilson,olga.wilson261@example.com,+1-555-516-2978,52.0,Female,UK,London,2021-05-15,54429.0,87.23,web,Note 719380-261
+C0039,Eva Clark,eva.clark39@example.com,+1-555-868-2746,67.0,Female,USA,New York,2019-12-17,40057.0,459.56,web,Note 127253-39
+C0202,Jack Brown,jack.brown202@example.com,+1-555-346-7375,61.0,Female,France,Lyon,2024-12-05,36049.0,397.34,web,Note 722794-202
+C0190,Bob Jones,bob.jones190@example.com,+1-555-923-4555,48.0,Male,Canada,Vancouver,2020-01-07,49989.0,469.21,web,Note 777493-190
+C0252,Hector Lewis,hector.lewis252@example.com,,72.0,Male,France,Paris,2018-08-12,29835.0,197.66,web,Note 157375-252
+C0113,Karen Garcia,karen.garcia113@example.com,+1-555-897-3754,22.0,Male,UK,London,2024-06-12,51857.0,409.37,web,Note 247745-113
+C0184,  david smith ,david.smith184@example.com,+1-555-729-1256,33.0,Male,Germany,Berlin,2018-10-02,56706.0,228.76,web,Note 704667-184
+C0153,  olga lopez ,olga.lopez153@example.com,+1-555-575-4342,39.0, Male,Germny,Munich,2024-12-11,52638.0,487.93,web,Note 137118-153
+C0192,   ,paul.wilson192@example.com,+1-555-922-8692,66.0,Female,Usa ,New York,2020-06-14,58653.0,32.4,web,Note 906058-192
+C0045,Hector Wilson,hector.wilson45@example.com,+1-555-379-8140,49.0,Male,Canada,Vancouver,2020-11-22,,421.85,web,Note 964209-45
+C0276,Frank Lewis,frank.lewis276@example.com,+1-555-818-7415,72.0,Male,USA,New York,2022-06-26,64164.0,484.09,web,Note 231625-276
+C0007,Hector Smith,hector.smith7@example.com,+1-555-510-5386,22.0,Male,UK,Leeds,2019-11-16,,234.84,web,Note 277746-7
+C0251,  carla wilson ,carla.wilson251@example.com,+1-555-623-6900,21.0,Female,Germny,Berlin,2020-03-09,58715.0,340.32,web,Note 120936-251
+C0076,Karen Garcia,karen.garcia76@example.com,+1-555-685-7274,,Female,Canada,Toronto,2020-12-16,,355.56,web,Note 850823-76
+C0001,David Smith,david.smith1@example.com,+1-555-350-4657,26.0,Male,UK,London,2022-07-02,63282.0,257.62,web,Note 27824-1
+C0069,  karen davis ,karen.davis69@example.com,+1-555-978-3634,39.0,,USA,Seattle,2021-05-22,75703.0,279.55,web,Note 476919-69
+C0168,Grace Moore,grace.moore168@example.com,+1-555-675-5450,26.0,Male,UK,London,2019-01-22,46944.0,453.54,web,Note 236633-168
+C0219,Olga Davis,olga.davis219@example.com,+1-555-407-1732,69.0,Male,USA,New York,2024-06-21,71645.0,465.66,web,Note 776459-219
+C0043,Carla Lopez,carla.lopez43@example.com,+1-555-438-9890,47.0,Female,Germany,Berlin,2019-07-13,68137.0,350.81,web,Note 898348-43
+C0073,David Wilson,david.wilson73@example.com,+1-555-763-3522,49.0,Female,USA,Seattle,2023-05-14,72063.0,129.43,web,Note 578043-73
+C0024,  david jones ,david.jones24@example.com,+1-555-318-9288,34.0,Male,France,Lyon,2018-04-12,54355.0,149.64,web,Note 459469-24
+C0186,Karen Garcia,karen.garcia186@example.com,+1-555-997-3347,60.0,Male,UK,Leeds,2020-05-02,81602.0,282.79,web,Note 620407-186
+C0104,Leo Moore,leo.moore104@example.com,+1-555-217-5564,,Male,UK,Leeds,2024-09-25,72070.0,411.03,web,Note 643378-104
+C0212,Hector Davis,,+1-555-387-7437,41.0, Male,Germany,Berlin,2022-09-06,38088.0,344.04,web,Note 576820-212
+C0068,  bob brown ,bob.brown68@example.com,+1-555-631-8245,35.0,Male,GERMANY ,Munich,2023-08-03,40616.0,240.31,web,Note 428184-68
+C0026,Karen Garcia,karen.garcia26@example.com,+1-555-617-9004,34.0,Male,U.K.,,2023-07-27,48032.0,145.57,web,Note 3717-26
+C0197,  irene moore ,irene.moore197@example.com,+1-555-117-9228,70.0,Female,UK,,2018-02-17,59649.0,267.96,web,Note 854814-197
+C0176,  frank lopez ,frank.lopez176@example.com,+1-555-820-6095,62.0,male,France,Lyon,2020-10-08,50977.0,117.37,web,Note 140057-176
